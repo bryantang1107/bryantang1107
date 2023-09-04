@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<!--![Beach](https://github.com/bryantang1107/bryantang1107/assets/92353787/6397de01-a9d9-4e9b-9f76-8b50595ad872)
+![Beach](https://github.com/bryantang1107/bryantang1107/assets/92353787/e355b51b-0d8f-45ad-a01a-33157a882eea)
 
 <h1 align="center">Hi 👋, I'm Bryan Tang</h1>
 <h3 align="center">Staying at the forefront of technology is not just a professional aspiration; it's my passion.</h3>
