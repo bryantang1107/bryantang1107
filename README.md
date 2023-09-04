@@ -1,8 +1,13 @@
 
-![Beach](https://github.com/bryantang1107/bryantang1107/assets/92353787/e355b51b-0d8f-45ad-a01a-33157a882eea)
-
+<img src="https://i.imgur.com/MvMxQ1a.gif"/>
 <h1 align="center">Hi 👋, I'm Bryan Tang</h1>
-<h3 align="center">Staying at the forefront of technology is not just a professional aspiration; it's my passion.</h3>
+
+<p align="center">Staying at the forefront of technology is not just a professional aspiration; It's my <strong>passion</strong>.</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryantang1107&label=Profile%20views&color=0e75b6&style=flat" alt="bryantang1107" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryantang1107" alt="bryantang1107" /></a> </p>
 
 - 🌱 I’m currently learning **ASP .NET Core & GraphQL**
 
@@ -13,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryantang1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryantang1107" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bryantang10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bryantang10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bryantang10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bryantang10" height="30" width="40" /></a>
 </p>
 
@@ -23,3 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryantang1107&show_icons=true&locale=en" alt="bryantang1107" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryantang1107&" alt="bryantang1107" /></p>
