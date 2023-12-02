@@ -16,7 +16,7 @@
 
 - 📫 Reach me @ **bryantang10@gmail.com**
 
-- ⚡ Fun fact **Interested in cryptocurrency ₿, blockchain technology 🔑, Fin-Tech & System Design 🖥🖥️📶👨🏻‍💻📱.**
+- ⚡ **Interested in cryptocurrency ₿, blockchain technology 🔑, Fin-Tech & System Design 🖥🖥️📶👨🏻‍💻📱.**
 
 <h1>Connect with me:</h1>
 <p align="left">
