@@ -10,13 +10,13 @@
 
 <h1>What I'm Up To </h1>
 
-<h3>I’m currently learning **ASP .NET Core & GraphQL**</h3>
+<h3>I’m currently learning **Go**</h3>
   
 - 📚 Learning something new every day because the tech world never stands still!
 
 - 📫 Reach me @ **bryantang10@gmail.com**
 
-- ⚡ **Interested in cryptocurrency ₿, blockchain technology 🔑, Fin-Tech & System Design 🖥🖥️📶👨🏻‍💻📱.**
+- ⚡ **Interested in learning cutting-edge technologies 🖥🖥️📶👨🏻‍💻📱.**
 
 <h1>Connect with me:</h1>
 <p align="left">
